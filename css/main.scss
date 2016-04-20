@@ -3,4 +3,8 @@
 ---
 @charset "utf-8";
 
-@import "common";
+// This is required to make sure that bootstrap fonts are loaded
+$icon-font-path: "{{ site.baseurl }}/assets/fonts/bootstrap/";
+
+@import 'bootstrap',
+        'common';
