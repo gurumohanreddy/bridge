@@ -1,0 +1,58 @@
+html, body {
+  color: $dark-color;
+}
+
+header {
+  nav.navbar {
+    background-color: $primary-color;
+    border-radius: 0;
+
+
+    a.navbar-brand, .navbar-nav > li > a {
+      color: $light-color;
+      @include transition(color);
+
+      &.apply {
+        border: 1px solid $light-color;
+        border-radius: 4px;
+        padding: 5px 10px;
+        margin: 10px 5px;
+        background-color: $primary-color;
+        @include transition(background-color);
+      }
+
+      &:hover {
+        color: $dark-color;
+
+        &.apply {
+          background-color: mix($primary-color, $light-color, 10%);
+        }
+      }
+    }
+  }
+}
+
+footer {
+  background-color: $dark-color;
+  color: $light-color;
+  text-align: center;
+  font-size: 0.9em;
+  padding: 1em 0;
+
+  nav {
+    a {
+      color: $light-color;
+      margin: 0 1em;
+      @include transition(color);
+
+      &:hover {
+        color: $primary-color;
+        text-decoration: none;
+      }
+    }
+  }
+
+  p {
+    margin: 0.4em 0 0;
+  }
+}

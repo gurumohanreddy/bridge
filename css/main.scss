@@ -6,5 +6,8 @@
 // This is required to make sure that bootstrap fonts are loaded
 $icon-font-path: "{{ site.baseurl }}/assets/fonts/bootstrap/";
 
-@import 'bootstrap',
+@import 'theme',
+        'bootstrap_config',
+        'bootstrap',
+        'mixins',
         'common';
