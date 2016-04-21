@@ -1,3 +1,20 @@
+#home-page {
+  header {
+    nav.navbar {
+      opacity: 0;
+      @include transition(opacity);
+
+      &.affix-top {
+        opacity: 0;
+      }
+
+      &.affix {
+        opacity: 1;
+      }
+    }
+  }
+}
+
 #home {
   #land {
     border: 1px solid transparent;

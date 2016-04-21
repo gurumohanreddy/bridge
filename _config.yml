@@ -21,5 +21,6 @@ github_username:  jekyll
 markdown: kramdown
 gems:
   - jekyll-bootstrap-sass
+  - jekyll-coffeescript
 bootstrap:
   assets: true
