@@ -1,0 +1,22 @@
+[
+  {avatar: "men/1",      name: "Ravindra Ravula",    tag: "GATE Expert"},
+  {avatar: "men/15",     name: "BV Satyaram",        tag: "Full Stack Expert"},
+  {avatar: "men/21",     name: "Santosh Srinivas",   tag: "IISC Bangalore"},
+  {avatar: "men/37",     name: "Naveen Bade", 	     tag: "IIIT Hyderabad"},
+  {avatar: "men/41",     name: "Srinivas Singam",    tag: "IIT Kharagpur"},
+  {avatar: "men/82",     name: "Brahma Reddy",       tag: "IIT Kharagpur"},
+  {avatar: "men/96",     name: "Satheesh Dannuri",   tag: "IIT Kharagpur"},
+  {avatar: "women/3",    name: "Sowmya  Vempati",    tag: "IIT Kharagpur"},
+  {avatar: "men/51",     name: "Sateesh Atcha",      tag: "IIIT Allahabad"},
+  {avatar: "women/24",   name: "Vasanthi",           tag: "NIT Surathkal"},
+  {avatar: "men/81",     name: "V Sai Siva Krishna", tag: "UOH"},
+  {avatar: "men/40",     name: "Subba Reddy V",      tag: "UOH"},
+  {avatar: "men/19",     name: "V Murali Krishna",   tag: "NIT Rourkela"},
+  {avatar: "men/10",     name: "Manoj",              tag: "NIT Trichy"},
+  {avatar: "women/34",   name: "Sneha Aggarwal",     tag: "IIT Madras"},
+  {avatar: "women/74",   name: "Sirisha Reddy N",    tag: "IIT Rookee"},
+  {avatar: "women/79",   name: "Pragya Chaturvedi",  tag: "IIIT Hyderabad"},
+  {avatar: "women/81",   name: "Harita Raman",       tag: "IIT Bombay"},
+  {avatar: "women/57",   name: "Harshita Mehta",     tag: "IIT Delhi"},
+  {avatar: "women/17",   name: "Anandi Reddy V",     tag: "NIT Trichi"}
+]

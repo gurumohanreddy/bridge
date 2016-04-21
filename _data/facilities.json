@@ -1,0 +1,6 @@
+[
+  {logo: "digital-class.png",  name: "Digital",         tag: "class rooms"},
+  {logo: "ac.png",             name: "Air conditioned", tag: "and well furnished"},
+  {logo: "accommodation.png",  name: "Accommodation",   tag: "Organic food and air conditioned"},
+  {logo: "fitness.png",        name: "Fitness",         tag: "at Gym"}
+]
