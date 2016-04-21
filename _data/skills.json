@@ -1,0 +1,14 @@
+[
+  {logo: "html.png",      name: "HTML5",                          description: "You will write semantic markup in HTML5 which is the latest standard of core technology of web."},
+  {logo: "css.png",       name: "CSS3",                           description: "You will style web pages using CSS3, leveraging on the new CSS3 modules, making modern websites."},
+  {logo: "js.jpg",        name: "JavaScript & jQuery",            description: "You will define the behavior of web pages using JavaScript, leveraging on jQuery and jQuery plug-ins."},
+  {logo: "ruby.png",      name: "Ruby",                           description: "You will start writing ruby scripts to solve daily problems. You will also explore and author RubyGems."},
+  {logo: "git.png",       name: "Git & Heroku",                   description: "You will start following git workflow using github. You will also deploy your applications with Heroku.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"},
+  {logo: "testing.png",   name: "Software Testing",               description: "While observing Test Driven Development, you will automate unit, functional and integration testing."},
+  {logo: "design.png",    name: "Software Design & Architecture", description: "You will be the architect for your projects. You also look into performance, security, and other ops."},
+  {logo: "agile.png",     name: "Agile & Lean Methodologies",     description: "You will learn and practice agile methodologies and lean startup principles used in software development."},
+  {logo: "rails.png",     name: "Ruby on Rails",                  description: "You will build advanced web applications using Ruby on Rails. You will be application development guru!"},
+  {logo: "angular.png",   name: "AngularJS",                      description: "You will build complex single page applications using AngularJS. You will build hybrid mobile applications."},
+  {logo: "api.png",       name: "API Implementation",             description: "You will build API that can be used by mobile applications and outside world. You will also use others' API.&nbsp;&nbsp;"},
+  {logo: "fullstack.png", name: "Full Stack Development",         description: "You will bring ideas from noting to reality, all by yourself. You have reached eternity! You are now Yoda!"}
+]
