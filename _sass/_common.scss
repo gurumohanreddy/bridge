@@ -1,11 +1,19 @@
+$navbar-height: 50px;
+
 html, body {
   color: $dark-color;
+}
+
+body {
+  background-color: $dark-color;
 }
 
 header {
   nav.navbar {
     background-color: $primary-color;
     border-radius: 0;
+    border-bottom: none;
+    margin-bottom: 0;
 
     a.navbar-brand img {
       height: 25px;
@@ -36,6 +44,12 @@ header {
   }
 }
 
+#main-content {
+  // This is required as the navbar is fixed-top
+  margin-top: $navbar-height;
+  background-color: $light-color;
+}
+
 footer {
   background-color: $dark-color;
   color: $light-color;
@@ -58,5 +72,23 @@ footer {
 
   p {
     margin: 0.4em 0 0;
+  }
+}
+
+.slide {
+  height: 100vh;
+  border: 1px solid transparent;
+}
+
+.vcenter {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  text-align: center;
+}
+
+@for $i from 1 through 6 {
+  h#{$i} {
+    font-weight: $thin-font-weight;
   }
 }
