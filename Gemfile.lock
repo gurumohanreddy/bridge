@@ -182,6 +182,3 @@ DEPENDENCIES
   jekyll
   jekyll-bootstrap-sass
   jekyll-coffeescript
-
-BUNDLED WITH
-   1.11.2
