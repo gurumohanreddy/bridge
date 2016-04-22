@@ -24,3 +24,4 @@ gems:
   - jekyll-coffeescript
 bootstrap:
   assets: true
+exclude: ["vendor"]
